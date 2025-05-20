@@ -1,0 +1,12 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore PHP vendor dependencies (if you add any)
+vendor/
+
+# Ignore logs
+*.log
+
+# Ignore environment variables
+.env
